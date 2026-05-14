@@ -48,21 +48,7 @@ Project-R/
 ├── config/          # DB configuration
 └── README.md
 
-===========================
-⚙️ Installation & Setup:
-============================
-1️⃣ Clone the repository
-git clone https://github.com/your-username/project-r.git
-cd project-r
-2️⃣ Backend setup
-cd backend
-npm install   # or pip install -r requirements.txt
-npm start
-3️⃣ Frontend setup
-cd frontend
-npm install
-npm start
-🔌 API Integration
+
 =================================
 
 The frontend communicates with backend using REST APIs such as:
