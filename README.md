@@ -52,12 +52,20 @@ Project-R/
 =================================
 
 
-👨‍💻 Contributors
+👨‍💻 Contributors:
+=================
+
     Salma Salah
+    
     Mariam Abdelfattah
+    
     Alaa Orabie
+    
     Nada Walied
+
     Ahmed Tarek
-📄 License
+    
+📄 License:
+===============
 
 This project is licensed under the MIT License.
