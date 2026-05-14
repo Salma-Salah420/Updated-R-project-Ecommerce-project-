@@ -1,5 +1,4 @@
 
-🛒 Project R – E-commerce Website
 
 📖 Overview:
 ================
