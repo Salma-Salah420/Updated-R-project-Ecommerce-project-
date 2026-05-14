@@ -51,18 +51,7 @@ Project-R/
 
 =================================
 
-The frontend communicates with backend using REST APIs such as:
 
-GET /products → fetch all products
-POST /cart → add item to cart
-POST /login → user authentication
-POST /order → place order
-📌 Future Improvements
-Add payment gateway integration 💳
-Improve UI/UX design 🎨
-Add product recommendations 🤖
-Implement order tracking 🚚
-===========================
 👨‍💻 Contributors
     Salma Salah
     Mariam Abdelfattah
